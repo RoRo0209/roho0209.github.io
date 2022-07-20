@@ -1,0 +1,15 @@
+# Site settings
+title: My Blog
+SEOTitle: 小羊的记事本 | RORO Blog
+header-img: img/home-bg.jpg
+email: rgy1117@163.com
+description: "RoRo和HoHo的科研记录本"
+keyword: "科研搬运工"
+url: "https://roho0209.github.io"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo:"https://github.com/rengaoyang/roho0209.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: ""
+sidebar-avatar: /img/rorohoho.jpg # use absolute URL, seeing it's used in both `/` and `/about/`

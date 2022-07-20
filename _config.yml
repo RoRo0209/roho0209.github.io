@@ -13,3 +13,13 @@ github_repo:"https://github.com/rengaoyang/roho0209.github.io.git" # you code re
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: ""
 sidebar-avatar: /img/rorohoho.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+# Gitalk
+gitalk:
+ enable:true #是否开启Gitalk评论
+ clientID：14c5b258239237281e37
+ clientSecret:5b7460c690edb2189dbec9433f1fba077631df48
+ repo:roho0209.github.io
+ owner:RoRo0209
+ admin:rengaoyang
+ id:{{comment_id}}
+ distractionFreeMode:true
